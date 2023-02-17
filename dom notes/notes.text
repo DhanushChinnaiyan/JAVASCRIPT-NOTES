@@ -1,0 +1,72 @@
+
+sir ooda github la irukura notesum pathukoo
+
+js intro:
+   js two types:
+      1)internal js
+      2)external js
+
+
+<html>
+<head></head>
+<body></body>
+</html>
+
+head ku ulla thaan css irukanum .(css ethukaga head la irukanum na nambalooda website load aagi varumboothu first css irukkumbothu atha first eduthukum so itu thaan correct aana structure)
+
+bodyooda keela thaan js irukanum.(js keela irukarathuku aana karanam html mudunja athuku apram thaan function varanum ,structure correct aa irukarathukaga ipdi use panranga)
+
+oru div epdi js la create panrathu nu script.js la irukku pathuku
+
+prompt:
+    promt na website open aana udane tell your name nu kudutha athu anga vanthu avunga name enter pabra maari varum.
+alert: 
+    alert na oru alert message popup panrathuku use panuvoom.
+
+
+get element by id:
+       ithu only id mattum eduthukkum.
+
+set attribute:
+       ithu vanthu class create panni athukana class name vachiranum,appram css la sript la entha class name kuduthumo atha vachi color and enything change pannikalam.
+       
+innertext vs text content:
+       inner text na text ku idaila space athgama iruntha eduthukthu.
+       text content na namba epdi string la kudukuramo apdiye varum.
+
+query selector vs query selector all:
+        query selector na entha class select panramo atha mattum change pannuvoom but queryselectorall na loooping podanum.
+       
+apend vs apend child:
+  apend la new elemnt and string use pannikalam but apendchild la only element mattum thaan poda mudiyum.
+
+((what is minimum functionin javascript?
+     ans:empty script is minimum function javascript))
+
+ALERT:
+  alert message varathukaga default javascript la use panrathu.
+ 
+  syntex: alert("hey i am alert")
+
+PROMPT:
+     alert maari pop up aagi input vangarathuku prompt use aguthu.(if condition use pannanum)
+
+     syntex: prompt("please type here","")
+
+CONFIRM:     
+   confirm la ok kudutha true nu eduthukum cancel kudutha false nu eduthukum so atha vachi ok kudutha enna varanum cancel kudutha enna varanum nu eluthurathaku use aguthu.
+
+   syntex: confirm("hey i am confirm")
+
+SET TIMOUT:
+       namba kudukura time ku appram call pannum.
+       syntax: setTimout( ,1000)
+
+
+EVENTS:
+    events neraya irukku atha online la refer pannu,
+    
+
+    MOUSE DOWN: mouse down na click pannumbothu changes kondu varathuku 
+    MOUSE UP: mouse up na click pannatha release pannumbothu chages koduvarathuku.
+    

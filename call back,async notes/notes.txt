@@ -1,0 +1,29 @@
+function vs arrow function diffrents:
+   arrow function vaariable aa asign agum but function functon aa asign agum.
+   ex:oru code:
+       a();
+       b();
+       funcion a(){
+        console.log("as")
+       }
+       var b=()=>{
+        console.log("bj")
+       }
+
+       inta code a console la potta ve unaku puriyum
+       a();-answer varum but b()-answer varathu enn na b vanthu variqable aa asign agum.
+
+(callstack,webapis,eventloop is very very important to interrview)
+CALL BACK FUNCTION:
+            call back na oru function nadanthathuku apram innoru function ru avarathukaga use panranga.
+   
+            
+
+         call stack:
+         call stack na oru  call stack la run agittu veliya pogum.
+
+         ((call stack,webapi,callback que)-> fulla nalla puriyanum na class-day-17 la 2.20 hrs ku apram ithu irukkum athula refer panniko (or) day-18-30 min kaluhi paaru.)
+
+EVENT LOOP:
+      (day-18 la record la 45 min la irukkum atha patha thelva puriyum)
+        
